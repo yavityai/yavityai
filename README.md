@@ -16,11 +16,6 @@ Data Scientist и ML-инженер из Томска. Специализиру�
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox)
 
-📈 **Достижения**  
-- 🏆 Победитель хакатона [название, год] в категории ML.  
-- 📝 Автор статьи "[название статьи]" на [Medium/Dev.to].  
-- 🤝 Контрибьютор в open-source проект [название, ссылка].
-
 📬 **Связаться со мной**  
 - [LinkedIn](https://linkedin.com/in/victor-kinyakin-7663b330a)  
 - [Telegram](https://t.me/@yavityai)  
