@@ -29,8 +29,8 @@ _Общие навыки разработки:_
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 📊 **Моя статистика на GitHub**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yavityai&show_icons=true&theme=vue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yavityai&layout=compact&theme=vue)
 
 📬 **Связаться со мной**
 - [Telegram](https://t.me/yavityai)
